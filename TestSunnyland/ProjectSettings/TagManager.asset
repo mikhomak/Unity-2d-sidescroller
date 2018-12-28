@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemies
+  - Items
+  - Bullets
+  - Background
+  - DeathZones
+  - Checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Creatures
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2474901671
+    locked: 0
+  - name: Enviroment
+    uniqueID: 1315398025
+    locked: 0
+  - name: Platforms
+    uniqueID: 265431187
+    locked: 0
+  - name: Food
+    uniqueID: 3405044419
+    locked: 0
+  - name: Creatures
+    uniqueID: 967017139
+    locked: 0
